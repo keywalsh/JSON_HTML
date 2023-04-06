@@ -13,3 +13,7 @@ Refresh every time a new sample is selected
 Create Demographics Panel 
 
 Create build charts function to support bar chart and bubble chart
+
+# Where to find assignment components  
+
+index.html in the Starter Code folder 
