@@ -14,8 +14,6 @@ Create Demographics Panel
 
 Create build charts function to support bar chart and bubble chart
 
-# Where to find assignment components  
+https://keywalsh.github.io/belly-button-challenge/
 
-index.html in the StarterCode 
 
-app.js in StarterCode/static/js/
