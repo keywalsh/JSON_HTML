@@ -16,6 +16,6 @@ Create build charts function to support bar chart and bubble chart
 
 # Where to find assignment components  
 
-index.html in the Starter Code folder 
+index.html in the StarterCode 
 
-app.js in Static --> JSON
+app.js in StarterCode/static/js/
